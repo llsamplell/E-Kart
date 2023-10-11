@@ -10,13 +10,14 @@
   margin-top: 70px;
   padding: 1.5em 0em;
 }
-.search-cart {
-  margin-top: 70px;
-  background: #f6f8fa;
-  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
-}
 
 /* Set width for the search bar */
 span.ant-input-search {
   width: 30%;
+}
+
+.search-cart {
+  margin-top: 70px;
+  background: #f6f8fa;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
 }
