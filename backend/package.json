@@ -2,6 +2,7 @@
     "name": "react-me-backend",
     "version": "0.1.0",
     "private": true,
+    "author": "Tanay Toshniwal",
     "scripts": {
         "start": "node index.js"
     },
